@@ -1,1 +1,998 @@
+LogType,EventID,Source,Time,Message
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Nov 11 09:50:43 2025,0x80073d02 9NHT9RB2F4HD-Microsoft.Copilot {983f2428-bc0d-42e3-b709-6b21d9b87f20} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Tue Nov 11 09:27:52 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Tue Nov 11 09:26:56 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Nov 10 09:51:57 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {c635d67d-3c58-4bee-a5c6-3b1a132a411f} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Mon Nov 10 09:19:47 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Nov 10 09:19:47 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Nov 10 09:19:47 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Mon Nov 10 09:18:53 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Wed Nov  5 12:31:44 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Wed Nov  5 12:30:48 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Nov  4 09:44:58 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {5f6543c9-2d60-4bfc-805a-0ed973c9439a} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Nov  4 09:40:18 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {404212d2-1df5-4fdb-a913-5d0746fcc807} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1801,Microsoft-Windows-TPM-WMI,Tue Nov  4 09:14:57 2025,FirmwareVersion:R1SET49W(1.20);OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_21E4_BU_Think_FM_ThinkPad E14 Gen 4;OSArchitecture:amd64; dc5cd3ccb858198a826d64ab760cbd2b34a8cd10a3c7e03ceafaf86d644b9c7b  0 0
+System,-1073734815,Service Control Manager,Mon Nov  3 15:32:51 2025,45000 Intel(R) Platform License Manager Service
+System,-1073734815,Service Control Manager,Mon Nov  3 15:31:35 2025,45000 Intel(R) Platform License Manager Service
+System,21,Microsoft-Windows-HAL,Mon Nov  3 10:28:16 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Nov  3 09:14:20 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Nov  3 09:14:19 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Nov  3 09:14:19 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Mon Nov  3 09:13:27 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073414128,BTHUSB,Wed Oct 29 15:02:15 2025, (a4:c6:9a:60:aa:c4)
+System,21,Microsoft-Windows-HAL,Wed Oct 29 09:12:28 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Wed Oct 29 09:11:31 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Oct 28 15:13:28 2025,0x80073d02 9NBLGGH4LS1F-Microsoft.StorePurchaseApp {03238326-8394-4c04-88dc-b71a3ddef82d} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,10317,Microsoft-Windows-NDIS,Tue Oct 28 09:45:51 2025,{ab36363f-d3d0-4201-9b64-ae93eda7464b} 18 14918723521478656 Kaspersky VPN 76
+System,21,Microsoft-Windows-HAL,Tue Oct 28 09:25:35 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Oct 28 09:25:35 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Oct 28 09:25:34 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Tue Oct 28 09:24:42 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073734793,Service Control Manager,Mon Oct 27 09:38:48 2025,Lenovo Hotkey Client Loader 1 0 1 Restart the service
+System,10317,Microsoft-Windows-NDIS,Mon Oct 27 09:01:20 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Wed Oct 22 14:12:22 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,10010,DCOM,Wed Oct 22 13:52:27 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,10010,DCOM,Wed Oct 22 12:11:05 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Oct 22 11:48:03 2025,0x80073d02 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience {1eed5a2b-2f56-4dff-9fef-df8cf570ffa3} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Wed Oct 22 09:20:18 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Oct 22 09:20:17 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Oct 22 09:20:17 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Wed Oct 22 09:19:20 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Tue Oct 21 14:41:28 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,1801,Microsoft-Windows-TPM-WMI,Tue Oct 21 09:15:48 2025,FirmwareVersion:R1SET49W(1.20);OEMManufacturerName:LENOVO;OEMModelSKU:LENOVO_MT_21E4_BU_Think_FM_ThinkPad E14 Gen 4;OSArchitecture:amd64; dc5cd3ccb858198a826d64ab760cbd2b34a8cd10a3c7e03ceafaf86d644b9c7b  0 0
+System,10010,DCOM,Mon Oct 20 14:27:49 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,10010,DCOM,Mon Oct 20 14:27:48 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,10010,DCOM,Mon Oct 20 14:27:48 2025,{69B7FE84-6361-4423-B948-1D64820B1E96}
+System,-1073734815,Service Control Manager,Mon Oct 20 14:26:31 2025,45000 Intel(R) Platform License Manager Service
+System,-1073734815,Service Control Manager,Mon Oct 20 14:25:16 2025,45000 Intel(R) Platform License Manager Service
+System,21,Microsoft-Windows-HAL,Mon Oct 20 10:43:08 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Oct 20 10:43:08 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Oct 20 10:43:08 2025,3221225473
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Oct 20 09:48:54 2025,0x80242016 2025-09 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5065789) (26100.6725) {1c1cd77c-1770-4a2a-a460-986fd9ab89d6} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Oct 20 09:48:54 2025,"0x80242016 Windows 11, version 25H2 {4a16eefb-b7e2-48e7-98ec-13eaf08926ba} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}"
+System,10317,Microsoft-Windows-NDIS,Mon Oct 20 09:40:20 2025,{1b415bd3-a8b0-49a9-b20b-ae445c63e609} 5 14918723521478656 Kaspersky VPN 76
+System,-1073734815,Service Control Manager,Wed Oct 15 15:00:23 2025,45000 Intel(R) Platform License Manager Service
+System,-1073734815,Service Control Manager,Wed Oct 15 14:59:03 2025,45000 Intel(R) Platform License Manager Service
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct 15 14:48:18 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct 15 14:48:18 2025,-2147020471 2
+System,21,Microsoft-Windows-HAL,Wed Oct 15 09:10:08 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct 15 09:09:13 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct 15 09:09:13 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Wed Oct 15 09:09:12 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Oct 14 10:02:55 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {e219c475-0f92-4ca1-85da-e31d0e1ca0f5} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Oct 14 09:59:08 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {af760b2c-5c29-4f7e-8213-185b1f2ca4c8} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Tue Oct 14 09:21:46 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Oct 14 09:21:46 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Oct 14 09:21:46 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Oct 14 09:20:56 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Tue Oct 14 09:20:56 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Tue Oct 14 09:20:55 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Mon Oct 13 09:25:36 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Mon Oct 13 09:25:36 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Mon Oct 13 09:25:35 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Wed Oct  8 09:18:04 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct  8 09:17:07 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct  8 09:17:07 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Wed Oct  8 09:17:06 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073734793,Service Control Manager,Tue Oct  7 15:43:54 2025,Elevoc Control Service 1 120000 1 Restart the service
+System,1796,Microsoft-Windows-TPM-WMI,Tue Oct  7 14:48:18 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Tue Oct  7 14:48:18 2025,-2147020471 2
+System,21,Microsoft-Windows-HAL,Tue Oct  7 09:10:57 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Oct  7 09:10:03 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Tue Oct  7 09:10:03 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Tue Oct  7 09:10:02 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Mon Oct  6 14:48:18 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Mon Oct  6 14:48:18 2025,-2147020471 2
+System,21,Microsoft-Windows-HAL,Mon Oct  6 11:31:51 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Oct  6 11:31:51 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Oct  6 11:31:51 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Mon Oct  6 09:18:01 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Mon Oct  6 09:18:01 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Mon Oct  6 09:18:01 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct  1 14:48:18 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct  1 14:48:18 2025,-2147020471 2
+System,21,Microsoft-Windows-HAL,Wed Oct  1 09:02:44 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct  1 09:01:47 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Wed Oct  1 09:01:47 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Wed Oct  1 09:01:46 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 30 14:48:18 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 30 14:48:18 2025,-2147020471 2
+System,21,Microsoft-Windows-HAL,Tue Sep 30 09:03:34 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Sep 30 09:03:33 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Sep 30 09:03:33 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 30 09:02:41 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 30 09:02:41 2025,-2147020471 2
+System,10317,Microsoft-Windows-NDIS,Tue Sep 30 09:02:40 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 29 14:48:18 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 29 14:48:18 2025,-2147020471 2
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Sep 29 13:26:52 2025,"0x80246007 SAMSUNG Electronics Co., Ltd.  - USB - 2.21.0.0 {b98198fc-0776-49e2-8a96-dede64191d5c} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}"
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 29 09:00:20 2025,-2147020471 1024
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 29 09:00:20 2025,-2147020471 2
+System,10010,DCOM,Wed Sep 24 14:44:38 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,10010,DCOM,Wed Sep 24 14:44:38 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,10010,DCOM,Wed Sep 24 14:44:38 2025,{A463FCB9-6B1C-4E0D-A80B-A2CA7999E25D}
+System,10010,DCOM,Wed Sep 24 14:44:38 2025,{69B7FE84-6361-4423-B948-1D64820B1E96}
+System,10010,DCOM,Wed Sep 24 14:44:37 2025,Microsoft.Windows.ContentDeliveryManager_10.0.26100.1_neutral_neutral_cw5n1h2txyewy!App.AppXx4zfy1ffv3wctgdz2vypnybzjkh27jhw.mca
+System,10010,DCOM,Wed Sep 24 14:44:37 2025,windows.immersivecontrolpanel_10.0.8.1000_neutral_neutral_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel
+System,-1073734815,Service Control Manager,Wed Sep 24 14:43:18 2025,45000 Intel(R) Platform License Manager Service
+System,-1073734824,Service Control Manager,Wed Sep 24 14:42:04 2025,Nested Network Virtualization %%3224698910
+System,30,Microsoft-Windows-Eventlog,Wed Sep 24 14:42:02 2025,5 Microsoft-Windows-LocationServiceProvider/Operational {8e889f0c-7d54-52b3-e4ae-2c8b27a482c2}
+System,-1073734815,Service Control Manager,Wed Sep 24 14:41:49 2025,45000 Intel(R) Platform License Manager Service
+System,-1073734824,Service Control Manager,Wed Sep 24 14:41:48 2025,VMSP %%1450
+System,10317,Microsoft-Windows-NDIS,Wed Sep 24 14:35:27 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 24 10:31:34 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 24 10:31:34 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Sep 24 10:19:53 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {7d467e43-e0ba-41de-8aa9-af98becb5d7d} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Wed Sep 24 09:19:32 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 24 09:18:40 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 24 09:18:40 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Sep 24 09:18:34 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 23 10:31:34 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 23 10:31:34 2025,-2147020471
+System,21,Microsoft-Windows-HAL,Tue Sep 23 09:25:05 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Sep 23 09:25:04 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Sep 23 09:25:04 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 23 09:24:15 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 23 09:24:15 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Sep 23 09:24:10 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Mon Sep 22 10:35:18 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 22 10:31:34 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 22 10:31:34 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Sep 22 09:55:24 2025,0x80073d02 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience {6f9612f3-561a-4a72-afbd-1b7a3096581f} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,10010,DCOM,Mon Sep 22 09:43:43 2025,{5F7F3F7B-1177-4D4B-B1DB-BC6F671B8F25}
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 22 09:34:10 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 22 09:34:10 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Sep 22 09:34:05 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 17 10:31:34 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 17 10:31:34 2025,-2147020471
+System,21,Microsoft-Windows-HAL,Wed Sep 17 09:07:52 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 17 09:07:00 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 17 09:07:00 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Sep 17 09:06:54 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 10:31:34 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 10:31:34 2025,-2147020471
+System,-1073734815,Service Control Manager,Tue Sep 16 10:26:34 2025,45000 Intel(R) Platform License Manager Service
+System,22,Microsoft-Windows-Eventlog,Tue Sep 16 10:26:34 2025,4201 Microsoft-Windows-USBVideo/Analytic
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 10:20:00 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 10:20:00 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Sep 16 10:16:00 2025,0x80242016 2025-08 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5064081) (26100.5074) {33b7330a-3a5d-4247-abfb-7c22603bc185} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,-1073734815,Service Control Manager,Tue Sep 16 10:15:00 2025,45000 Intel(R) Platform License Manager Service
+System,22,Microsoft-Windows-Eventlog,Tue Sep 16 10:14:59 2025,4201 Microsoft-Windows-USBVideo/Analytic
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 09:16:27 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 09:16:27 2025,-2147020471
+System,21,Microsoft-Windows-HAL,Tue Sep 16 09:15:25 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 09:14:28 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep 16 09:14:28 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Sep 16 09:14:27 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Mon Sep 15 14:32:14 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Sep 15 09:57:12 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {53d3fe73-432e-4c68-88f9-8959eedf7215} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Sep 15 09:57:09 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {53d3fe73-432e-4c68-88f9-8959eedf7215} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Mon Sep 15 09:40:47 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Sep 15 09:40:47 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Sep 15 09:40:47 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 15 09:39:54 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep 15 09:39:54 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Sep 15 09:39:53 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Fri Sep 12 13:45:52 2025,{30C84EA2-06E5-44B2-8614-D17D7244E7DC}
+System,21,Microsoft-Windows-HAL,Fri Sep 12 10:15:37 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Sep 12 10:15:37 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Sep 12 10:15:37 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Fri Sep 12 10:14:43 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Fri Sep 12 10:14:43 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Fri Sep 12 10:14:43 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Wed Sep 10 09:33:43 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 10 09:32:45 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep 10 09:32:45 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Sep 10 09:32:45 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Tue Sep  9 09:29:41 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Sep  9 09:29:41 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Sep  9 09:29:40 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep  9 09:28:53 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep  9 09:28:53 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Sep  9 09:28:48 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073734793,Service Control Manager,Mon Sep  8 15:25:36 2025,Elevoc Control Service 1 120000 1 Restart the service
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Sep  8 09:45:31 2025,0x80070020 9PNRBTZXMB4Z-PythonSoftwareFoundation.Python.3.13 {16ff6f31-75fa-4d89-8a62-0331009b4ad6} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep  8 09:17:15 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep  8 09:17:15 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Sep  3 13:29:52 2025,0x80070020 9PNRBTZXMB4Z-PythonSoftwareFoundation.Python.3.13 {16ff6f31-75fa-4d89-8a62-0331009b4ad6} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Sep  3 13:28:43 2025,0x80070020 9PNRBTZXMB4Z-PythonSoftwareFoundation.Python.3.13 {16ff6f31-75fa-4d89-8a62-0331009b4ad6} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Sep  3 09:44:02 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {70c766e9-8537-463e-89f0-36f903f78ec6} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Sep  3 09:41:44 2025,0x80073d02 9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE {161ddc38-66ce-4a16-a5d0-7d4102be1fc6} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep  3 09:23:55 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Sep  3 09:23:55 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Sep  3 09:23:50 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Sep  2 09:22:08 2025,0x800f0823 2025-08 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5064081) (26100.5074) {33b7330a-3a5d-4247-abfb-7c22603bc185} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep  2 09:16:27 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Sep  2 09:16:27 2025,-2147020471
+System,-1073734815,Service Control Manager,Tue Sep  2 09:11:27 2025,45000 Intel(R) Platform License Manager Service
+System,22,Microsoft-Windows-Eventlog,Tue Sep  2 09:11:27 2025,4201 Microsoft-Windows-USBVideo/Analytic
+System,-1073734815,Service Control Manager,Mon Sep  1 16:00:45 2025,45000 Intel(R) Platform License Manager Service
+System,22,Microsoft-Windows-Eventlog,Mon Sep  1 16:00:44 2025,4201 Microsoft-Windows-USBVideo/Analytic
+System,21,Microsoft-Windows-HAL,Mon Sep  1 09:20:13 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Sep  1 09:20:13 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Sep  1 09:20:13 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep  1 09:19:25 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Sep  1 09:19:25 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Sep  1 09:19:19 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073414128,BTHUSB,Wed Aug 27 14:19:39 2025, (a4:c6:9a:60:aa:c4)
+System,-1073414128,BTHUSB,Wed Aug 27 14:19:25 2025, (a4:c6:9a:60:aa:c4)
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Aug 27 11:17:41 2025,0x80246007 Intel - System - 2.2.10205.3620 {ff4526ec-44c1-4a9d-a908-3c95a60cd01a} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Aug 27 09:15:59 2025,0x80073d02 9MSMLRH6LZF3-Microsoft.WindowsNotepad {ebbf796a-466d-41ee-909c-d0617651cc58} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed Aug 27 09:07:26 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Aug 27 09:07:26 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Aug 27 08:58:56 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Aug 27 08:58:56 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Aug 27 08:58:51 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073734793,Service Control Manager,Tue Aug 26 14:42:55 2025,Elevoc Control Service 1 120000 1 Restart the service
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Aug 26 09:34:02 2025,0x80073d02 9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE {2a039202-b50e-4bda-9678-d7748f56b8fb} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Tue Aug 26 09:14:58 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Aug 26 09:14:58 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Aug 26 09:14:57 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Aug 26 09:14:10 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Aug 26 09:14:10 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Aug 26 09:14:05 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug 25 09:48:31 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {40914a2e-a821-46de-b140-df28944a81a7} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug 25 09:44:07 2025,0x80073d02 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience {e2fc5f3e-16e1-48e3-9e7e-9fd0acd2942b} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug 25 09:40:29 2025,0x8024200b Intel - System - 2.2.10205.3620 {b1a79c07-c911-4d6d-9340-18b37cd9b6ee} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,1796,Microsoft-Windows-TPM-WMI,Mon Aug 25 09:23:02 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Aug 25 09:23:02 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Aug 25 09:23:02 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Aug 20 09:50:28 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {83e4e998-882c-4c30-8795-d97b47c7bad7} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Aug 20 09:49:13 2025,0x80073d02 9MSMLRH6LZF3-Microsoft.WindowsNotepad {5030c378-f8a4-4f3a-a538-629f7bcd26f2} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Aug 20 09:41:31 2025,0x80073d02 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience {6ddae36e-e79b-436b-bdd1-5e3344406ea6} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,10010,DCOM,Wed Aug 20 09:27:09 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,21,Microsoft-Windows-HAL,Wed Aug 20 09:12:02 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Aug 20 09:12:02 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Aug 20 09:12:02 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Aug 20 09:11:23 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed Aug 20 09:11:23 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Aug 20 09:11:18 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073734818,Service Control Manager,Tue Aug 19 12:21:21 2025,ScRegSetValueExW Start %%5
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Aug 19 09:14:13 2025,0x80242016 2025-06 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5060829) {73d4be2f-c31f-4970-87e6-f391913ebd3d} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Aug 19 09:14:13 2025,0x80242016 2025-07 Cumulative Update for Windows 11 Version 24H2 for x64-based Systems (KB5062553) {c56cbfe5-6477-44bc-86d8-c3808040fa7a} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Aug 19 09:14:13 2025,0x800f0841 2025-07 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5062660) (26100.4770) {8768ce69-a3b7-4cac-bea3-e71b53c4fb34} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Aug 19 09:14:13 2025,0x80242016 2025-05 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5058499) {a079578a-f688-4076-a4f8-185788b1bf5d} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,1796,Microsoft-Windows-TPM-WMI,Tue Aug 19 09:07:26 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue Aug 19 09:07:26 2025,-2147020471
+System,22,Microsoft-Windows-Eventlog,Tue Aug 19 09:02:25 2025,4201 Microsoft-Windows-USBVideo/Analytic
+System,22,Microsoft-Windows-Eventlog,Mon Aug 18 13:54:47 2025,4201 Microsoft-Windows-USBVideo/Analytic
+System,-2147477640,EventLog,Mon Aug 18 13:54:47 2025,13:54:03 ‎18/‎08/‎2025   3015  
+System,10010,DCOM,Mon Aug 18 13:23:03 2025,{B91D5831-B1BD-4608-8198-D72E155020F7}
+System,-1073734801,Service Control Manager,Mon Aug 18 13:21:03 2025,Update Orchestrator Service %%2149884192
+System,10010,DCOM,Mon Aug 18 13:21:03 2025,{B91D5831-B1BD-4608-8198-D72E155020F7}
+System,-1073734801,Service Control Manager,Mon Aug 18 13:19:03 2025,Update Orchestrator Service %%2149884192
+System,1796,Microsoft-Windows-TPM-WMI,Mon Aug 18 13:09:04 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Aug 18 13:09:04 2025,-2147020471
+System,-1073734801,Service Control Manager,Mon Aug 18 13:06:06 2025,Update Orchestrator Service %%2149884192
+System,22,Microsoft-Windows-Eventlog,Mon Aug 18 13:04:03 2025,4201 Microsoft-Windows-USBVideo/Analytic
+System,1796,Microsoft-Windows-TPM-WMI,Mon Aug 18 12:53:02 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Aug 18 12:49:27 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10317,Microsoft-Windows-NDIS,Tue Aug  5 14:49:49 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Tue Aug  5 11:24:00 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Aug  5 11:24:00 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Aug  5 11:24:00 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Aug  5 11:23:13 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Aug  5 11:23:08 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug  4 16:26:48 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {6733d777-3359-485b-9648-cf0dce9284e2} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug  4 16:26:48 2025,0x80073d02 9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB {21b2dcb8-8802-41d6-a3a8-1b59614771ca} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug  4 13:48:39 2025,0x80073d02 9NHT9RB2F4HD-Microsoft.Copilot {277bbc4e-bdb5-4f36-ac03-6065769ff389} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug  4 13:48:33 2025,0x80073d02 9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB {21b2dcb8-8802-41d6-a3a8-1b59614771ca} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Aug  4 13:45:44 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {6733d777-3359-485b-9648-cf0dce9284e2} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Mon Aug  4 13:34:58 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Aug  4 13:34:53 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Wed Jul 30 11:52:34 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Jul 30 11:52:34 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Jul 30 11:52:34 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Jul 30 11:51:45 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Jul 30 11:51:40 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Jul 29 12:30:12 2025,0x80073d02 9NHT9RB2F4HD-Microsoft.Copilot {395a0b17-725b-4f48-86ba-ab57a23638f8} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,10317,Microsoft-Windows-NDIS,Tue Jul 29 12:25:12 2025,{bcab0b12-4aca-4a44-9084-17000207b8b4} 12 14918723521478656 Kaspersky VPN 76
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Jul 29 12:20:39 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {51ef0e01-b1be-41c3-a302-92340e258087} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Tue Jul 29 11:04:31 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Jul 29 11:04:26 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Fri Jul 25 11:27:31 2025,{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+System,21,Microsoft-Windows-HAL,Fri Jul 25 11:05:33 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Jul 25 11:05:33 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Jul 25 11:05:33 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Fri Jul 25 11:05:08 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Fri Jul 25 11:05:03 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Wed Jul 23 15:54:59 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,10010,DCOM,Wed Jul 23 15:54:59 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jul 23 12:06:21 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {3f02cb49-c71d-4cbd-868a-3743cbf6bea1} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jul 23 12:06:19 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {276b3c8a-7165-4be3-ae44-0cd2c554e242} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jul 23 11:23:30 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {276b3c8a-7165-4be3-ae44-0cd2c554e242} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jul 23 11:20:57 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {3f02cb49-c71d-4cbd-868a-3743cbf6bea1} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed Jul 23 11:08:38 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Jul 23 11:08:33 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Fri Jul 18 13:54:34 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Jul 18 13:54:34 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Jul 18 13:54:34 2025,3221225473
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri Jul 18 13:22:45 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {dc87f6dc-129b-4dd0-a3d3-2a6221225007} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Fri Jul 18 13:04:40 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Fri Jul 18 13:04:35 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Wed Jul  9 10:25:25 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Jul  9 10:25:25 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Jul  9 10:25:24 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Wed Jul  9 10:03:28 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Wed Jul  9 10:01:37 2025,-2147020471
+System,21,Microsoft-Windows-HAL,Fri Jul  4 13:03:00 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Jul  4 13:03:00 2025,3221225473
+System,21,Microsoft-Windows-HAL,Fri Jul  4 13:03:00 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Fri Jul  4 13:02:09 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Fri Jul  4 13:02:09 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jul  2 10:19:30 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {45e929e4-3f4f-4755-bc2f-a45a28f3895a} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jul  2 10:18:48 2025,0x80073d02 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience {0a3c0b2d-f40c-442d-9919-fdd017d49a8d} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed Jul  2 10:08:52 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Jul  2 10:08:52 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073734813,Service Control Manager,Thu Jun 26 14:29:30 2025,30000 KSDE5.21
+System,-1073734813,Service Control Manager,Thu Jun 26 14:29:30 2025,30000 AVP21.21
+System,21,Microsoft-Windows-HAL,Thu Jun 26 11:02:53 2025,3221225473
+System,21,Microsoft-Windows-HAL,Thu Jun 26 11:02:52 2025,3221225473
+System,21,Microsoft-Windows-HAL,Thu Jun 26 11:02:52 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Thu Jun 26 11:02:05 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Thu Jun 26 11:02:00 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jun 25 10:35:14 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {5a21e614-ba5d-47a0-85cc-12e736695236} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed Jun 25 10:21:08 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Jun 25 10:21:08 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jun 18 14:25:20 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {7c4ac2f0-d622-4e21-88b2-4f7e61ad7c88} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Wed Jun 18 10:39:50 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Jun 18 10:39:50 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Jun 18 10:39:50 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Jun 18 09:52:36 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Jun 18 09:19:58 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {7c4ac2f0-d622-4e21-88b2-4f7e61ad7c88} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,10000,DCOM,Wed Jun 18 09:06:41 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {544C4C52-DE0B-4D14-9510-21745381D5CA}"
+System,10000,DCOM,Wed Jun 18 09:01:52 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Wed Jun 18 09:01:52 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Wed Jun 18 09:01:52 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Wed Jun 18 09:01:52 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Wed Jun 18 09:00:36 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {544C4C52-DE0B-4D14-9510-21745381D5CA}"
+System,1796,Microsoft-Windows-TPM-WMI,Wed Jun 18 09:00:29 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Jun 18 09:00:24 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10000,DCOM,Fri Jun  6 14:33:53 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {544C4C52-DE0B-4D14-9510-21745381D5CA}"
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri Jun  6 13:17:10 2025,"0x8024200b Elevoc Technology Co.,Ltd - AudioProcessingObject - 4.0.5.234 {7eee19d2-61f8-43f1-bb37-27e27789b95a} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}"
+System,10317,Microsoft-Windows-NDIS,Fri Jun  6 12:40:12 2025,{5d7d6fb8-f970-43dc-9074-04e212493874} 12 14918723521478656 Kaspersky VPN 76
+System,10000,DCOM,Fri Jun  6 12:24:19 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Fri Jun  6 12:24:19 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Fri Jun  6 12:24:19 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Fri Jun  6 12:24:19 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {94269C4E-071A-4116-90E6-52E557067E4E}"
+System,10000,DCOM,Fri Jun  6 12:22:28 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {544C4C52-DE0B-4D14-9510-21745381D5CA}"
+System,1796,Microsoft-Windows-TPM-WMI,Fri Jun  6 12:22:16 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Fri Jun  6 12:22:16 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10000,DCOM,Tue Jun  3 16:05:03 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {544C4C52-DE0B-4D14-9510-21745381D5CA}"
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Jun  3 11:41:59 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {0d64f810-b270-4276-8a59-cca18ac6783c} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Jun  3 11:17:44 2025,0x80073d02 9NBLGGH4LS1F-Microsoft.StorePurchaseApp {d3cb5184-1fd2-41cd-9368-9ecb39951214} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,10000,DCOM,Tue Jun  3 10:38:10 2025,"""C:\Users\DS4Y Cohort 3\AppData\Local\Microsoft\OneDrive\25.085.0504.0002\FileCoAuth.exe"" -Embedding 2147958009 {544C4C52-DE0B-4D14-9510-21745381D5CA}"
+System,21,Microsoft-Windows-HAL,Tue Jun  3 10:32:28 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Jun  3 10:31:37 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Jun  3 10:31:32 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Mon Jun  2 10:13:29 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Jun  2 10:13:28 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Jun  2 10:13:28 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Mon Jun  2 10:11:01 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Jun  2 10:11:01 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed May 28 10:12:38 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {9325a2d3-8d04-4ebd-8357-4d73770dfdd1} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed May 28 10:12:37 2025,0x80073d02 9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE {6ddca95b-a65e-4095-a2bb-52126665e2e1} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,10010,DCOM,Wed May 28 10:06:01 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed May 28 09:58:16 2025,0x80073d02 9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE {6ddca95b-a65e-4095-a2bb-52126665e2e1} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed May 28 09:58:01 2025,0x80073d02 9NZKPSTSNW4P-Microsoft.XboxGamingOverlay {9240854a-ee73-421e-bc0f-2559d088e1f1} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed May 28 09:57:36 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {9325a2d3-8d04-4ebd-8357-4d73770dfdd1} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed May 28 09:56:12 2025,0x80248007 9NBLGGH51CLL-Microsoft.Services.Store.Engagement {3f6608fd-a63e-4c0a-ac23-3d0a81a8fe70} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed May 28 09:52:36 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Wed May 28 09:47:02 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed May 28 09:47:02 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed May 21 11:57:00 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {25890cde-00c1-4453-9d8f-32fef88d80c7} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed May 21 09:52:36 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue May 20 12:33:55 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue May 20 09:30:22 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue May 20 09:28:57 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10317,Microsoft-Windows-NDIS,Tue May 13 11:11:37 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Wed May  7 05:55:16 2025,-2147020471
+System,10010,DCOM,Tue May  6 12:41:43 2025,{FB3C4578-D834-5B91-838B-33C23D553EAB}
+System,1796,Microsoft-Windows-TPM-WMI,Tue May  6 12:33:55 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Tue May  6 12:33:49 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue May  6 12:33:44 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Mon May  5 12:33:56 2025,-2147020471
+System,3503,Microsoft-Windows-DeviceAssociationService,Mon May  5 12:28:14 2025,internal DAS error C:\Windows\System32\svchost.exe 3816 3
+System,3503,Microsoft-Windows-DeviceAssociationService,Mon May  5 12:28:14 2025,internal DAS error C:\Windows\System32\svchost.exe 5020 3
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon May  5 12:17:08 2025,0xc1800109 2025-04 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5055627) {01accbcd-00ca-42b5-a079-17a1c7c9ea47} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,-1073734781,Service Control Manager,Mon May  5 11:55:02 2025,Windows Update
+System,1796,Microsoft-Windows-TPM-WMI,Mon May  5 11:37:33 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon May  5 10:49:55 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,1796,Microsoft-Windows-TPM-WMI,Mon May  5 10:49:49 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon May  5 10:49:44 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Fri May  2 13:33:55 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,-1073734818,Service Control Manager,Fri May  2 11:52:42 2025,ScRegSetValueExW Start %%5
+System,10010,DCOM,Fri May  2 11:50:59 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri May  2 11:43:43 2025,0x80073d02 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience {81cd6cda-ee67-4a57-8394-6781e4839910} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Fri May  2 11:37:33 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri May  2 11:34:04 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri May  2 11:33:14 2025,0x800f0823 2025-04 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5055627) {01accbcd-00ca-42b5-a079-17a1c7c9ea47} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,3503,Microsoft-Windows-DeviceAssociationService,Tue Apr 29 11:57:20 2025,internal DAS error C:\Windows\System32\svchost.exe 4668 3
+System,3503,Microsoft-Windows-DeviceAssociationService,Tue Apr 29 11:57:20 2025,internal DAS error C:\Windows\System32\svchost.exe 3600 3
+System,-1073734801,Service Control Manager,Tue Apr 29 11:56:58 2025,Update Orchestrator Service %%2149884192
+System,10317,Microsoft-Windows-NDIS,Tue Apr 29 09:32:38 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Tue Apr 29 09:12:25 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Apr 29 09:12:24 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Apr 29 09:12:24 2025,3221225473
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Apr 29 09:09:26 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,10317,Microsoft-Windows-NDIS,Tue Apr 29 09:09:15 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Apr 23 12:41:53 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {2eb475fe-568c-40c0-97c7-1b48d934a305} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Wed Apr 23 09:18:05 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Apr 23 09:18:04 2025,3221225473
+System,21,Microsoft-Windows-HAL,Wed Apr 23 09:18:04 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Wed Apr 23 09:17:13 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Apr 22 10:07:08 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,10317,Microsoft-Windows-NDIS,Tue Apr 22 10:06:56 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Apr 16 12:30:43 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {a483f7da-bb04-45c5-8c87-90da65d2a119} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Wed Apr 16 10:51:10 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Apr 16 09:35:24 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,21,Microsoft-Windows-HAL,Wed Apr 16 09:31:41 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Wed Apr 16 09:30:43 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Wed Apr 16 09:30:43 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10317,Microsoft-Windows-NDIS,Tue Apr 15 14:11:14 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Tue Apr 15 10:51:10 2025,-2147020471
+System,21,Microsoft-Windows-HAL,Tue Apr 15 10:39:36 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Apr 15 10:39:35 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Apr 15 10:39:35 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Tue Apr 15 09:22:27 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Tue Apr 15 09:22:22 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Apr 14 12:14:12 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,10317,Microsoft-Windows-NDIS,Mon Apr 14 12:14:03 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Mon Apr 14 12:14:03 2025,-2147020471
+System,1796,Microsoft-Windows-TPM-WMI,Mon Apr  7 10:52:35 2025,-2147020471
+System,3503,Microsoft-Windows-DeviceAssociationService,Mon Apr  7 10:45:35 2025,internal DAS error C:\Windows\System32\svchost.exe 3996 3
+System,3503,Microsoft-Windows-DeviceAssociationService,Mon Apr  7 10:45:35 2025,internal DAS error C:\Windows\System32\svchost.exe 2420 3
+System,10010,DCOM,Mon Apr  7 10:44:44 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,10010,DCOM,Mon Apr  7 10:44:44 2025,{08728914-3F57-4D52-9E31-49DAECA5A80A}
+System,10010,DCOM,Mon Apr  7 10:44:38 2025,{8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Apr  7 10:06:30 2025,0x80073d02 9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB {8039ed68-c3ab-4690-aa85-280009c39404} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Apr  7 10:00:03 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {bfca4dd0-0b35-4819-b751-c80466e94766} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Apr  7 09:59:21 2025,0x80073d02 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience {66b14edc-12bd-401e-9466-10cf706f2619} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Apr  7 09:57:19 2025,0x80073d02 9NTXGKQ8P7N0-MicrosoftWindows.CrossDevice {1c628440-a33c-4980-aaa9-3f8aa59aaa06} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Apr  7 09:30:32 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Apr  7 09:26:34 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,1796,Microsoft-Windows-TPM-WMI,Mon Apr  7 09:18:50 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Apr  7 09:18:49 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,-1073734813,Service Control Manager,Thu Mar 13 14:28:34 2025,30000 WSearch
+System,1796,Microsoft-Windows-TPM-WMI,Thu Mar 13 14:26:06 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Thu Mar 13 14:23:19 2025,0x80242016 2025-02 Cumulative Update Preview for Windows 11 Version 24H2 for x64-based Systems (KB5052093) {7e9a11f0-49b1-4f9f-a897-5ecd9463b148} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,-1073734801,Service Control Manager,Thu Mar 13 14:20:33 2025,SysMain %%1747
+System,-1073734824,Service Control Manager,Thu Mar 13 14:20:33 2025,Audiosrv %%1069
+System,-1073734786,Service Control Manager,Thu Mar 13 14:20:33 2025,Audiosrv NT AUTHORITY\LocalService %%50
+System,3503,Microsoft-Windows-DeviceAssociationService,Thu Mar 13 14:20:33 2025,internal DAS error C:\Windows\System32\svchost.exe 2988 3
+System,-2147477640,EventLog,Thu Mar 13 14:20:33 2025,14:14:56 ‎13/‎03/‎2025   532454  
+System,20,Microsoft-Windows-WindowsUpdateClient,Thu Mar 13 14:04:38 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,10010,DCOM,Thu Mar 13 12:40:47 2025,{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+System,21,Microsoft-Windows-HAL,Thu Mar 13 10:16:09 2025,3221225473
+System,21,Microsoft-Windows-HAL,Thu Mar 13 10:16:08 2025,3221225473
+System,21,Microsoft-Windows-HAL,Thu Mar 13 10:16:08 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Thu Mar 13 10:15:14 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10000,Microsoft-Windows-WLAN-AutoConfig,Wed Mar 12 13:54:36 2025,C:\WINDOWS\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_14f5374e2f00286a\IntelIHVRouter14.dll 21
+System,-1073734813,Service Control Manager,Wed Mar 12 12:44:25 2025,30000 WSearch
+System,10317,Microsoft-Windows-NDIS,Wed Mar 12 11:06:32 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Tue Mar 11 13:20:58 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Mar 11 10:21:43 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Tue Mar 11 10:20:47 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Mar 10 14:13:18 2025,0x80073d02 9WZDNCRFJ3PT-MICROSOFT.ZUNEMUSIC {50193138-e466-43a4-be79-8657aa68d045} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,-1073734813,Service Control Manager,Mon Mar 10 11:54:14 2025,30000 WSearch
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Mar 10 10:26:31 2025,0x80073d02 9WZDNCRFJ3PT-MICROSOFT.ZUNEMUSIC {50193138-e466-43a4-be79-8657aa68d045} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,1796,Microsoft-Windows-TPM-WMI,Mon Mar 10 10:26:00 2025,-2147020471
+System,21,Microsoft-Windows-HAL,Mon Mar 10 09:40:08 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Mar 10 09:40:08 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Mar 10 09:40:07 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Mon Mar 10 09:39:14 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Mar 10 09:39:14 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,10010,DCOM,Fri Mar  7 16:33:44 2025,{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+System,10010,DCOM,Fri Mar  7 16:33:44 2025,{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+System,-1073414128,BTHUSB,Fri Mar  7 13:43:55 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 13:43:19 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 13:42:32 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 13:41:52 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 12:18:08 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 12:16:26 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 12:16:26 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 12:15:39 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 12:15:21 2025, (41:42:64:d5:37:de)
+System,98,Microsoft-Windows-Ntfs,Fri Mar  7 11:54:38 2025,D: \Device\HarddiskVolume8 3
+System,98,Microsoft-Windows-Ntfs,Fri Mar  7 11:54:37 2025,E: \Device\HarddiskVolume9 3
+System,98,Microsoft-Windows-Ntfs,Fri Mar  7 11:54:36 2025,\\?\Volume{46b7f694-082a-4c19-b6e3-3ed120167fd4} \Device\HarddiskVolume5 3
+System,1796,Microsoft-Windows-TPM-WMI,Fri Mar  7 10:26:00 2025,-2147020471
+System,-1073414128,BTHUSB,Fri Mar  7 10:24:07 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:22:52 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:22:20 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:22:08 2025, (41:42:64:d5:37:de)
+System,3503,Microsoft-Windows-DeviceAssociationService,Fri Mar  7 10:20:20 2025,internal DAS error C:\Windows\System32\svchost.exe 5000 3
+System,3503,Microsoft-Windows-DeviceAssociationService,Fri Mar  7 10:20:20 2025,internal DAS error C:\Windows\System32\svchost.exe 4048 3
+System,-1073414128,BTHUSB,Fri Mar  7 10:15:51 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:15:51 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:15:39 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:11:36 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:11:01 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:11:01 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:10:49 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:09:39 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:09:28 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:08:53 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:08:18 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:07:42 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:07:22 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:07:06 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:06:31 2025, (41:42:64:d5:37:de)
+System,-1073414128,BTHUSB,Fri Mar  7 10:06:19 2025, (41:42:64:d5:37:de)
+System,1796,Microsoft-Windows-TPM-WMI,Fri Mar  7 09:54:27 2025,-2147020471
+System,3503,Microsoft-Windows-DeviceAssociationService,Tue Mar  4 15:19:02 2025,internal DAS error C:\Windows\System32\svchost.exe 4836 3
+System,3503,Microsoft-Windows-DeviceAssociationService,Tue Mar  4 15:19:02 2025,internal DAS error C:\Windows\System32\svchost.exe 3868 3
+System,3503,Microsoft-Windows-DeviceAssociationService,Tue Mar  4 15:17:39 2025,internal DAS error C:\Windows\System32\svchost.exe 3736 3
+System,3503,Microsoft-Windows-DeviceAssociationService,Tue Mar  4 15:17:39 2025,internal DAS error C:\Windows\System32\svchost.exe 13720 3
+System,-1073734781,Service Control Manager,Tue Mar  4 15:17:38 2025,Connected User Experiences and Telemetry
+System,21,Microsoft-Windows-HAL,Tue Mar  4 14:06:19 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Mar  4 10:51:44 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Mar  4 10:51:44 2025,3221225473
+System,21,Microsoft-Windows-HAL,Tue Mar  4 10:51:43 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Tue Mar  4 10:49:58 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri Feb 28 13:17:45 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {f7909e1d-94c5-4c22-844f-3b366a500566} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri Feb 28 13:17:36 2025,0x80073d02 9WZDNCRFJBMP-MICROSOFT.WINDOWSSTORE {75e4f322-5374-41f5-b492-f34d412c741c} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,20,Microsoft-Windows-WindowsUpdateClient,Fri Feb 28 13:13:29 2025,0x80073d02 9NBLGGH4NNS1-Microsoft.DesktopAppInstaller {76d18bb6-dd1d-4e74-81bf-b8fb0d5e4e41} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Fri Feb 28 10:09:46 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Fri Feb 28 10:08:50 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Thu Feb 27 13:42:57 2025,0x80073d02 9NMPJ99VJBWV-Microsoft.YourPhone {f7909e1d-94c5-4c22-844f-3b366a500566} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Thu Feb 27 11:44:32 2025,3221225473
+System,21,Microsoft-Windows-HAL,Thu Feb 27 11:44:32 2025,3221225473
+System,21,Microsoft-Windows-HAL,Thu Feb 27 11:44:31 2025,3221225473
+System,20,Microsoft-Windows-WindowsUpdateClient,Thu Feb 27 11:43:07 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,10317,Microsoft-Windows-NDIS,Thu Feb 27 11:43:01 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Wed Feb 26 12:41:39 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Wed Feb 26 11:10:35 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Mon Feb 24 10:00:05 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Feb 24 10:00:04 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Feb 24 10:00:04 2025,3221225473
+System,20,Microsoft-Windows-WindowsUpdateClient,Mon Feb 24 09:57:10 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,10317,Microsoft-Windows-NDIS,Mon Feb 24 09:57:07 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Thu Feb 20 09:52:38 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Thu Feb 20 09:51:40 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Wed Feb 19 14:10:51 2025,0x80073d02 9WZDNCRFJ3P2-MICROSOFT.ZUNEVIDEO {410eaa63-fce2-4d14-b4cd-758f61aef201} 1 {855e8a7c-ecb4-4ca3-b045-1dfa50104289}
+System,21,Microsoft-Windows-HAL,Wed Feb 19 10:48:38 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Wed Feb 19 10:47:42 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Feb 18 12:30:49 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Feb 18 12:30:45 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Feb 18 12:30:43 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Feb 18 12:30:39 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,20,Microsoft-Windows-WindowsUpdateClient,Tue Feb 18 12:30:35 2025,0x8024200b Dolby - SoftwareComponent - 3.30702.720.0 {834e90da-a86b-4066-abd2-4ee6963c33c2} 1 {8b24b027-1dee-babb-9a95-3517dfb9c552}
+System,21,Microsoft-Windows-HAL,Tue Feb 18 10:48:51 2025,3221225473
+System,10317,Microsoft-Windows-NDIS,Tue Feb 18 10:47:55 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,21,Microsoft-Windows-HAL,Mon Feb 17 10:52:11 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Feb 17 10:52:10 2025,3221225473
+System,21,Microsoft-Windows-HAL,Mon Feb 17 10:52:10 2025,3221225473
+System,1796,Microsoft-Windows-TPM-WMI,Mon Feb 17 10:34:14 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Mon Feb 17 10:26:28 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Fri Feb 14 10:39:49 2025,-2147020471
+System,10317,Microsoft-Windows-NDIS,Fri Feb 14 10:33:50 2025,{12be0f84-80cb-4b38-84bc-e84e4f9fb207} 4 19985273135824896 Microsoft Wi-Fi Direct Virtual Adapter #2 74
+System,1796,Microsoft-Windows-TPM-WMI,Thu Feb 13 11:12:24 2025,-2147020471
+System,20,Microsoft-Windows-WindowsUpdateClient,Thu Feb 13 11:10:32 2025,"0x80070490 2025-01 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 23H2 for x64 (KB5049624) {093b8e61-7c75-40d0-8b36-f4d67f47e24b} 200 {9482f4b4-e343-43b6-b170-9a65bc822c77}"
+System,-1073734794,Service Control Manager,Thu Feb 13 11:07:09 2025,Printer Extensions and Notifications
+System,10010,DCOM,Thu Feb 13 11:04:30 2025,{A47979D2-C419-11D9-A5B4-001185AD2B89}
+System,3503,Microsoft-Windows-DeviceAssociationService,Thu Feb 13 11:04:27 2025,internal DAS error C:\Windows\System32\svchost.exe 2044 3
+System,-1073737617,Tcpip,Thu Feb 13 11:03:52 2025, IPv6 11
+System,-1073737617,Tcpip,Thu Feb 13 11:03:52 2025, IPv4 11
+System,-1073734800,Service Control Manager,Thu Feb 13 11:03:03 2025,Intel(R) Audio Service %%0
+System,-1073734801,Service Control Manager,Thu Feb 13 11:03:00 2025,netprofm %%21
+System,-1073734824,Service Control Manager,Thu Feb 13 11:02:38 2025,Kaspersky Anti-Virus NDIS 6 Filter %%1243
+Application,12,Microsoft-Windows-AppModel-State,Mon Nov 10 09:19:01 2025,Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy -2147023878
+Application,1000,Application Error,Tue Nov  4 11:41:21 2025,OneDrive.exe 25.194.1005.3 7bd31af5 Windows.UI.Xaml.dll 10.0.26100.6725 e73588b5 c000027b 00000000008fdf13 0x1f84 0x1dc4d5ac423b2cf C:\Users\DS4Y Cohort 4\AppData\Local\Microsoft\OneDrive\OneDrive.exe C:\Windows\System32\Windows.UI.Xaml.dll e63392bb-d0e4-4ef7-85bd-534c015a13d8  
+Application,1002,Application Hang,Tue Nov  4 09:34:00 2025,Copilot.exe 1.25102.233.0 0x1ec0 0x1dc4d5ad0344107 4294967295 C:\Program Files\WindowsApps\Microsoft.Copilot_1.25102.233.0_x64__8wekyb3d8bbwe\Copilot.exe 7265318e-934b-42cc-a3da-2f30041357fb Microsoft.Copilot_1.25102.233.0_x64__8wekyb3d8bbwe App Quiesce
+Application,1002,Application Hang,Tue Oct 28 09:44:09 2025,Copilot.exe 1.25096.23.0 0x5600 0x1dc47dc56100cba 4294967295 C:\Program Files\WindowsApps\Microsoft.Copilot_1.25096.23.0_x64__8wekyb3d8bbwe\Copilot.exe 7d896f77-0ae7-413f-b951-f4d3b7ca7764 Microsoft.Copilot_1.25096.23.0_x64__8wekyb3d8bbwe App Quiesce
+Application,1000,Application Error,Mon Oct 27 09:38:43 2025,TPHKLOAD.exe 10.15.2508.4 686b4051 ntdll.dll 10.0.26100.6899 234c0f50 c000000d 000000000006f82f 0x1790 0x1dc41bcc448c01a C:\WINDOWS\System32\DriverStore\FileRepository\fn.inf_amd64_4af1814854c1afab\driver\TPHKLOAD.exe C:\WINDOWS\SYSTEM32\ntdll.dll b0ae657c-debe-4eae-8b7b-8818c06d0fd9  
+Application,1002,Application Hang,Tue Oct 21 09:34:01 2025,Copilot.exe 1.25095.165.0 0x3da8 0x1dc425a93568a50 4294967295 C:\Program Files\WindowsApps\Microsoft.Copilot_1.25095.165.0_x64__8wekyb3d8bbwe\Copilot.exe 6fa30ef8-0d97-445c-9167-9f18694a4e92 Microsoft.Copilot_1.25095.165.0_x64__8wekyb3d8bbwe App Quiesce
+Application,1002,Application Hang,Wed Oct 15 09:31:48 2025,Copilot.exe 1.25094.120.0 0x473c 0x1dc3da2f497bfeb 4294967295 C:\Program Files\WindowsApps\Microsoft.Copilot_1.25094.120.0_x64__8wekyb3d8bbwe\Copilot.exe 3dff3ae6-1c84-4117-b41b-14bbe0d76b43 Microsoft.Copilot_1.25094.120.0_x64__8wekyb3d8bbwe App Quiesce
+Application,1000,Application Error,Tue Oct 14 14:42:14 2025,ETDCtrl.exe 24.0.21.17 5f23a8b9 ETDCmds.dll 24.0.21.20 5d75c97c c0000005 0000000000030397 0x1568 0x1dc3cdb15785004 C:\WINDOWS\system32\ETDCtrl.exe C:\WINDOWS\system32\ETDCmds.dll 1576c362-e046-4bbf-b803-189892b068dd  
+Application,1000,Application Error,Tue Oct  7 15:43:54 2025,ElevocControlService.exe 1.0.1.766 677222e2 ntdll.dll 10.0.26100.5074 0e967e89 c0000005 0000000000080ec1 0x12e0 0x1dc2d50cd8fc4db C:\WINDOWS\system32\ElevocInstallDriver\ElevocControlService.exe C:\WINDOWS\SYSTEM32\ntdll.dll 838417cb-2cf7-43cb-85c8-80f3aaf4b570  
+Application,1002,Application Hang,Tue Oct  7 09:28:46 2025,Copilot.exe 1.25093.144.0 0x1140 0x1dc37599727e15b 4294967295 C:\Program Files\WindowsApps\Microsoft.Copilot_1.25093.144.0_x64__8wekyb3d8bbwe\Copilot.exe 776daf8b-3ee1-47d4-8904-3323014e21bd Microsoft.Copilot_1.25093.144.0_x64__8wekyb3d8bbwe App Quiesce
+Application,1002,Application Hang,Wed Oct  1 09:20:21 2025,Copilot.exe 1.25093.137.0 0x590 0x1dc32a1857e2a95 4294967295 C:\Program Files\WindowsApps\Microsoft.Copilot_1.25093.137.0_x64__8wekyb3d8bbwe\Copilot.exe ef526ae3-aca3-4bea-af79-a339b1417039 Microsoft.Copilot_1.25093.137.0_x64__8wekyb3d8bbwe App Quiesce
+Application,-2108030919,CertEnroll,Tue Sep 16 10:26:46 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Tue Sep 16 10:26:46 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Tue Sep 16 10:26:44 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-1034289065,CertEnroll,Tue Sep 16 10:15:15 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep PkiStatus(11): SCEPDispositionPendingChallenge
+EnrollStatus(32): EnrollUnknown
+The operation completed successfully. 0x0 (WIN32: 0)
+SubmitDone
+Submit(ChallengeAnswer): Too Many Requests
+HTTP/1.1 429 Too Many Requests
+Date: Tue, 16 Sep 2025 08:15:15 GMT
+Content-Length: 17
+Content-Type: text/HTML
+Retry-After: 20
+client-request-id: 92020a73-e73a-4a33-b90f-c6489f5b09fe
+ POST(6078ms) SubmitDone Error 0x801901ad (-2145844819)"
+Application,-2108030919,CertEnroll,Tue Sep 16 10:15:12 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Tue Sep 16 10:15:12 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Tue Sep 16 10:15:09 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,1552,Microsoft-Windows-User Profiles Service,Tue Sep 16 09:59:29 2025,C:\Windows\System32\svchost.exe 4820 2412
+Application,1000,Application Error,Mon Sep  8 15:25:33 2025,ElevocControlService.exe 1.0.1.766 677222e2 ntdll.dll 10.0.26100.4768 95c61958 c0000374 000000000011dc45 0x12c8 0x1dc1bd8ccde6aee C:\WINDOWS\system32\ElevocInstallDriver\ElevocControlService.exe C:\WINDOWS\SYSTEM32\ntdll.dll ff7cb4f9-5c22-4512-8f3f-d47789ca19d1  
+Application,-2108030919,CertEnroll,Tue Sep  2 09:11:43 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Tue Sep  2 09:11:43 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Tue Sep  2 09:11:40 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Mon Sep  1 16:00:56 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Mon Sep  1 16:00:56 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,-2108030919,CertEnroll,Mon Sep  1 16:00:54 2025,Local system Microsoft Pluton Cryptographic Provider NCryptOpenStorageProvider Not implemented 0x80004001 (-2147467263 E_NOTIMPL)
+Application,8193,VSS,Mon Sep  1 16:00:00 2025,"CoCreateInstance 0x8007045b, A system shutdown is in progress.
+ "
+Application,13,VSS,Mon Sep  1 16:00:00 2025,"{4e14fba2-2e22-11d1-9964-00c04fbbb345} CEventSystem 0x8007045b, A system shutdown is in progress.
+ "
+Application,8193,VSS,Mon Sep  1 16:00:00 2025,"CoCreateInstance 0x8007045b, A system shutdown is in progress.
+ "
+Application,13,VSS,Mon Sep  1 16:00:00 2025,"{4e14fba2-2e22-11d1-9964-00c04fbbb345} CEventSystem 0x8007045b, A system shutdown is in progress.
+ "
+Application,1000,Application Error,Tue Aug 26 14:42:55 2025,ElevocControlService.exe 1.0.1.766 677222e2 ntdll.dll 10.0.26100.4202 9194561f c0000374 000000000011dcc5 0x1280 0x1dc10d7384ff504 C:\WINDOWS\system32\ElevocInstallDriver\ElevocControlService.exe C:\WINDOWS\SYSTEM32\ntdll.dll 28c03a8f-25db-4b6a-a8f2-12ebab058e99  
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:52:23 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:45:48 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:45:48 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:45:45 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:18:15 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:18:14 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:07:35 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,-1034289066,CertEnroll,Tue Aug 19 09:06:54 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep GetCACaps
+ GET(140ms) GetCACaps A connection with the server could not be established 0x80072efd (WinHttp: 12029 ERROR_WINHTTP_CANNOT_CONNECT)"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:06:54 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,1002,Application Hang,Tue Aug 19 09:05:47 2025,CrossDeviceResume.exe 2125.12000.0.0 0x22c8 0x1dc10d773e4cf19 4294967295 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe 83746796-4b2f-464a-b4c3-0ade61d0dc30 MicrosoftWindows.Client.CBS_1000.26100.107.0_x64__cw5n1h2txyewy CrossDeviceResumeApp Cross-thread;Quiesce
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:04:31 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:04:31 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:04:30 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:04:29 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:02:34 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,-1034289066,CertEnroll,Tue Aug 19 09:02:35 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep GetCACaps
+ GET(0ms) GetCACaps A connection with the server could not be established 0x80072efd (WinHttp: 12029 ERROR_WINHTTP_CANNOT_CONNECT)"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:02:34 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:02:34 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:02:34 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Aug 19 09:02:33 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,-1034289066,CertEnroll,Tue Aug 19 09:02:34 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep GetCACaps
+ GET(78ms) GetCACaps A connection with the server could not be established 0x80072efd (WinHttp: 12029 ERROR_WINHTTP_CANNOT_CONNECT)"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:53:33 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:53:32 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:06:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:06:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:06:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:06:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:04:12 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:04:12 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:04:12 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 13:04:12 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,-1034289066,CertEnroll,Mon Aug 18 13:04:12 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep GetCACaps
+ GET(94ms) GetCACaps A connection with the server could not be established 0x80072efd (WinHttp: 12029 ERROR_WINHTTP_CANNOT_CONNECT)"
+Application,4107,Microsoft-Windows-CAPI2,Mon Aug 18 12:55:02 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,1552,Microsoft-Windows-User Profiles Service,Mon Aug 18 12:52:20 2025,C:\Windows\System32\svchost.exe 4432 1600
+Application,1002,Application Hang,Mon Aug  4 13:50:58 2025,Copilot.exe 1.25072.115.0 0xbe8 0x1dc0533d511e8b0 4294967295 C:\Program Files\WindowsApps\Microsoft.Copilot_1.25072.115.0_x64__8wekyb3d8bbwe\Copilot.exe b47deb70-a8c8-4b6f-91da-2877f01a8766 Microsoft.Copilot_1.25072.115.0_x64__8wekyb3d8bbwe App Quiesce
+Application,4107,Microsoft-Windows-CAPI2,Fri Jul 18 13:15:49 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Fri Jul 18 13:15:48 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Fri Jul 18 13:10:48 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Fri Jul 18 13:05:17 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Fri Jul 18 13:05:01 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Wed Jun 18 09:05:35 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Wed Jun 18 09:03:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Wed Jun 18 09:01:53 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:14 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:14 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:14 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:11 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:11 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:11 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:10 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:10 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:24:09 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:23:52 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Tue Apr 15 09:23:52 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,1000,Application Error,Tue Apr 15 09:22:29 2025,HxTsr.exe 16.0.14326.22328 67db3bcc hxcomm.dll 16.0.14326.22328 67db3b3b 0109f190 00000000001e7dec 0x266c 0x1dbadd723edaa8f C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22328.0_x64__8wekyb3d8bbwe\HxTsr.exe C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22328.0_x64__8wekyb3d8bbwe\hxcomm.dll e5b251a5-859d-4a12-b066-3dd215b8e3b8 microsoft.windowscommunicationsapps_16005.14326.22328.0_x64__8wekyb3d8bbwe ppleae38af2e007f4358a809ac99a64a67c1
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:47:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:47:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:47:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:47:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:47:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:47:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:47:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:04 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:03 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:03 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:00 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:00 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:00 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:00 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:00 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:00 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:22:00 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:18:08 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:18:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:18:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:18:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:18:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:55 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:55 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:54 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:52 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:51 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:51 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:51 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:51 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:50 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:32 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:15:23 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:13 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:13 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:10 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:10 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:10 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:09 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:09 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:07 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:06 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:05 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:04 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr 14 12:14:04 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:25:53 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,-1034289066,CertEnroll,Mon Apr  7 09:24:50 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep GetCACaps
+ GET(125ms) GetCACaps A connection with the server could not be established 0x80072efd (WinHttp: 12029 ERROR_WINHTTP_CANNOT_CONNECT)"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:24:49 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:47 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:44 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:44 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:44 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:41 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:40 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:40 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:39 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:39 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:38 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:19 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:20:19 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:19:12 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,4107,Microsoft-Windows-CAPI2,Mon Apr  7 09:19:11 2025,"http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab The data is invalid.
+"
+Application,-1056898994,SideBySide,Thu Mar 13 14:22:51 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3323_none_85b5b76df7b06d96.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3323_none_3e088096e3344490.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Mar 13 14:22:06 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3323_none_85b5b76df7b06d96.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3323_none_3e088096e3344490.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Mar 13 14:22:00 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3323_none_85b5b76df7b06d96.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3323_none_3e088096e3344490.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1034289066,CertEnroll,Thu Mar 13 14:21:12 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep GetCACaps
+ GET(46ms) GetCACaps The server name or address could not be resolved 0x80072ee7 (WinHttp: 12007 ERROR_WINHTTP_NAME_NOT_RESOLVED)"
+Application,-1056898994,SideBySide,Thu Mar 13 10:16:16 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Mar 13 10:15:18 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Mar 12 15:40:28 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Mar 12 14:34:42 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Mar 12 14:34:41 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Mar 12 12:52:21 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Mar 12 12:32:48 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Mar 12 12:24:06 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Mar 12 11:06:36 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar 11 14:17:50 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar 11 10:20:51 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 14:55:10 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 14:22:00 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 14:17:46 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 13:07:13 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 12:41:15 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 09:59:27 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 09:52:04 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Mar 10 09:39:16 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 15:45:23 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 11:47:35 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 11:46:55 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 11:45:05 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 11:36:45 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:35:11 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:35:09 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:21:29 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:21:29 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:21:06 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:21:04 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:15:34 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:00:43 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 10:00:43 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 09:49:42 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Mar  7 09:49:42 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_85b65d03f7afec7e.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.3037_none_3e09262ce333c378.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 14:09:19 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 14:09:19 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 14:08:47 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 14:08:47 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 14:08:03 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 14:08:03 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:16:40 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:16:40 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:08:28 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:08:28 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:08:02 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:08:02 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:07:33 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:07:33 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:06:44 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:06:44 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:06:04 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:06:04 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:04:08 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:04:08 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:04:08 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:04:08 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 11:00:50 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 10:53:26 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 10:50:04 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Mar  4 10:50:01 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:26:16 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:26:16 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:23:05 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:20:23 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:20:23 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:19:19 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:19:19 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:18:17 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:18:17 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:18:11 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:18:11 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:18:10 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:18:10 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:18:10 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:17:20 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:15:47 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:13:47 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:13:17 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:11:56 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:10:36 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:08:35 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:05:02 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:03:20 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:02:36 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 13:00:13 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 12:59:25 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,1000,Application Error,Fri Feb 28 11:03:05 2025,WiFiTask.exe 10.0.26100.1882 a319069f ntdll.dll 10.0.26100.2454 7cb6b6a8 c0000005 0000000000032299 0x2010 0x1db89bf779b9ada C:\WINDOWS\System32\WiFiTask.exe C:\WINDOWS\SYSTEM32\ntdll.dll a2b50e19-b204-4fe0-906c-3e7647c4421f  
+Application,-1056898994,SideBySide,Fri Feb 28 10:11:06 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Fri Feb 28 10:08:54 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 27 13:42:33 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 27 12:40:01 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 27 12:40:00 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 26 13:14:50 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 26 13:14:26 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 26 13:13:23 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 10:35:52 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 10:34:59 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 10:34:28 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 10:21:03 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 10:18:01 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 10:17:13 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 10:16:11 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 24 09:57:13 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 20 12:05:14 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 20 12:03:57 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 20 12:02:44 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 20 12:01:38 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 20 11:59:06 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Thu Feb 20 09:51:44 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 19 14:11:34 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 19 14:08:53 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 19 14:08:30 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 19 13:13:33 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Wed Feb 19 10:47:46 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Feb 18 11:36:41 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Feb 18 11:22:00 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Feb 18 11:13:34 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Tue Feb 18 10:47:59 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 17 11:40:30 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 17 11:28:22 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 17 11:28:20 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 17 11:28:20 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 17 11:26:32 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4Y Student\AppData\Local\CapCut\Apps\CapCut.exe         
+Application,-1056898994,SideBySide,Mon Feb 17 11:24:27 2025,C:\WINDOWS\WinSxS\manifests\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_85b89f79f7add666.manifest C:\WINDOWS\WinSxS\manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.26100.2454_none_3e0b68a2e331ad60.manifest         C:\Users\DS4YST~1\AppData\Local\Temp\WinGet\XP9KN75RRB9NHS.5.7.0.2112\3182ca1d-d6c4-4153-b08a-881238c2b4e1_67caeeded973cf54cfee4fde68f024f8e404b9ded2108b4e9821e90bebdc6392.exe         
+Application,-1034289066,CertEnroll,Thu Feb 13 11:10:27 2025,"WORKGROUP\DESKTOP-O62G3HO$ https://STM-KeyId-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net/templates/Aik/scep GetCACaps
+ GET(438ms) GetCACaps A connection with the server could not be established 0x80072efd (WinHttp: 12029 ERROR_WINHTTP_CANNOT_CONNECT)"
 
