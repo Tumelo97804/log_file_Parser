@@ -80,4 +80,4 @@ def generate_report(error_logs, report_file="error_file.csv"):
 
 if __name__ == "__main__":
     logs = get_Error_Logs(server="localhost", log_types=["System", "Application"])
-    generate_report(logs, report_file=r"C:\Users\DS4Y Cohort 4\Desktop\logs\error_file.csv")
+    generate_report(logs, report_file=r"output\error_file.csv")
